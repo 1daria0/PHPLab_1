@@ -279,7 +279,7 @@
 
 `Host: sandbox.usm.com`
 
-`User-Agent: Иван Иванов`
+`User-Agent: Ghitu Daria`
 
 `Content-Type: application/json`
 
